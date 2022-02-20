@@ -3,11 +3,14 @@
 - title: Home
   url: /
 
-- title: Blog
-  url: /blog/
-
+- title: Books
+  url: /books/
+  
 - title: Projects
   url: /projects/
 
 - title: About
   url: /about/
+
+- title: Blog
+  url: /blog/

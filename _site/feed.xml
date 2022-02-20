@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://marvinjohanning.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://marvinjohanning.de/" rel="alternate" type="text/html" /><updated>2022-02-20T17:31:25+01:00</updated><id>https://marvinjohanning.de/feed.xml</id><title type="html">Marvin Johanning</title><subtitle>Simple Jekyll theme for your blog by Taylan Tatlı</subtitle><entry><title type="html">Ancient-Greek.net — A website about the language of Ancient Greece</title><link href="https://marvinjohanning.de/ancient-greek-site/" rel="alternate" type="text/html" title="Ancient-Greek.net — A website about the language of Ancient Greece" /><published>2022-02-20T00:00:00+01:00</published><updated>2022-02-20T00:00:00+01:00</updated><id>https://marvinjohanning.de/ancient-greek-site</id><content type="html" xml:base="https://marvinjohanning.de/ancient-greek-site/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-20T17:55:25+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Marvin Johanning</title><subtitle>Simple Jekyll theme for your blog by Taylan Tatlı</subtitle><entry><title type="html">Ancient-Greek.net — A website about the language of Ancient Greece</title><link href="http://localhost:4000/ancient-greek-site/" rel="alternate" type="text/html" title="Ancient-Greek.net — A website about the language of Ancient Greece" /><published>2022-02-20T00:00:00+01:00</published><updated>2022-02-20T00:00:00+01:00</updated><id>http://localhost:4000/ancient-greek-site</id><content type="html" xml:base="http://localhost:4000/ancient-greek-site/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#about-ancient-greeknet&quot; id=&quot;markdown-toc-about-ancient-greeknet&quot;&gt;About ancient-greek.net&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#content&quot; id=&quot;markdown-toc-content&quot;&gt;Content&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#why-was-the-site-created&quot; id=&quot;markdown-toc-why-was-the-site-created&quot;&gt;Why was the site created?&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#main-goals-and-philosophy&quot; id=&quot;markdown-toc-main-goals-and-philosophy&quot;&gt;Main goals and Philosophy&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#navigation&quot; id=&quot;markdown-toc-navigation&quot;&gt;Navigation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#offline-version-and-backup&quot; id=&quot;markdown-toc-offline-version-and-backup&quot;&gt;Offline version and backup&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;center&gt;&lt;b&gt;&lt;a href=&quot;https://ancient-greek.net&quot;&gt;Ancient-Greek.net&lt;/a&gt;&lt;/b&gt; is my website containing lots of information about the language of Greece from the Classical Period to around 500 AD. &lt;/center&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Ancient-Greek.net is my main and most regularily updated website. This post contains some information about the website, why it was created and more.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-ancient-greeknet&quot;&gt;About ancient-greek.net&lt;/h2&gt;
+
+&lt;p&gt;This website began as a rather small portion of my main website, marvinjohanning.de; as I studied more, however, and kept amending it and adding new information, it felt as if my main website had turned into nothing but a hub about information about Ancient Greek. I, thus, decided that it was time to move this part of my website onto its own domain, ancient-greek.net.&lt;/p&gt;
+
+&lt;p&gt;This way, it is possible for me to keep my regular and private website separate from my resources for Ancient Greek; and, additionally, the current domain name is much more easily recognisable as what it is — a website about Ancient Greek.&lt;/p&gt;
+
+&lt;p&gt;If you, however, wish to see the website in its old form, you can find numerous snapshots of it over on the Wayback Machine. The earliest snapshot of the Greek portion which I was able to find dates to &lt;a href=&quot;https://web.archive.org/web/20200920080314/marvinjohanning.de/greek/index.php&quot;&gt;September 2020&lt;/a&gt;; you will find that a lot has changed since then — and I hope it has changed for the better. Please note that I am no longer maintaining marvinjohanning.de and the website, instead, redirects to ancient-greek.net&lt;/p&gt;
+
+&lt;h3 id=&quot;content&quot;&gt;Content&lt;/h3&gt;
+
+&lt;p&gt;I tend to update this page at least once per week; frequently I update it even more often, but as I am, at times, rather busy — or do not know what to add — the amount of time it takes me to add something new might increase. Nevertheless, rest assured that the update frequency of this website will be kept as high as I am able to keep it; for, indeed, writing about Ancient Greek, in turn, allows me to actually learn the language better.&lt;/p&gt;
+
+&lt;p&gt;But what about actual content that might be found on this page? There are numerous things here, actually, and the amount of categories keeps growing. Mainly, however, you will be able to look at my shelves — both physical and virtual — to see what kinds of books I am using to learn the language and read reviews about them; you will be able to read original ancient texts with transliterations and translations; you can find my own compositions in Ancient Greek; and numerous other things, such as my blog or some articles.&lt;/p&gt;
+
+&lt;p&gt;I am also a great fan of images and visual content in general; you will, therefore, find a picture on virtually any page and most articles will contain several pictures relating to the topic being discussed within said article. I always take the utmost care to make certain that every graphic I use can be used by me without any further issues; should you, however, find that an image you find hereon violates your — or someone else’s — copyright, then I would like to ask you to &lt;a href=&quot;https://ancient-greek.net/contact.php&quot;&gt;send me an email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-was-the-site-created&quot;&gt;Why was the site created?&lt;/h3&gt;
+
+&lt;p&gt;You might now understandably be wondering why anyone would create a website such as this one in the year 2021, where there exist a myriad of websites on every conceivable topic; and the majority of aforesaid websites have a much higher budget and a much bigger audience. Aside from my hating the majority of the modern Web and its focus on money, bloatedness and mobile-first approaches, I find that there needs to be more websites made as websites were made &lt;em&gt;in the days of old&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I therefore decided to create this nice little corner of the Web, in the hopes of finding other people that agree with my sentiment that most modern sites are too bloated for their own good; and that most sites nowadays focus more on having a &lt;q&gt;cool&lt;/q&gt; design, but do not take into account what is most important: content.&lt;/p&gt;
+
+&lt;p&gt;Aside from the aforementioned reasons, I simply wanted to create some content regarding Ancient Greek and make it available for everyone; indeed, even before the creation of this website, I would write reviews and the like into my notebook. But seeing as the Web allows me to make such content available to a much wider audience than simply myself, I decided to create a website.&lt;/p&gt;
+
+&lt;h3 id=&quot;main-goals-and-philosophy&quot;&gt;Main goals and Philosophy&lt;/h3&gt;
+
+&lt;p&gt;The main philosophy behind this website’s design is simplicity. For one, I refrain from using cookies and other privacy-invading things such as Google Analytics, since an informational website such as this one should not require the visitor to accept cookies, especially not third-party ones. In an attempt to minimise the reliance on other services, all fonts and media files are hosted directly on my server — the only time your computer should be required to access a different web server, is when you click one of the links clearly marked as a redirect to a third-party site.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, due to my not being a fan of the majority of the modern Web and its glaring issues, I am intentionally keeping this website’s look simplistic; so much so, in fact, that it should remind you of the Web 1.0 days. Nevertheless, as time has — for better or worse — moved on, and the devices with which people access the Web have drastically changed, I have decided to go in on a compromise: I will try honouring the principles of Web 1.0, whilst also incorporating more modern concepts — such as responsive design, so that the website can be viewed without issues on mobile devices — so that most modern users will be able to browse the site without any issues.&lt;/p&gt;
+
+&lt;p&gt;As I am also not a fan of the utterly useless copyright laws we have at present, I have decided to make &lt;em&gt;all&lt;/em&gt; of this site’s content available under a Free Culture approved Creative Commons license, details about which can be found in the footer of the page.&lt;/p&gt;
+
+&lt;p&gt;Every photograph and piece of text you find here is — unless the text beneath the photograph or title says otherwise — licensed under the license you can find below. I, therefore, highly encourage you to share, remix and use this work in any way you please — so long as you abide by the rather simple to understand license terms.&lt;/p&gt;
+
+&lt;p&gt;I also write every single piece of code powering the website myself — barring the occasional help I get from various friends whose knowledge of Web development is far greater than mine. I always want to know &lt;em&gt;exactly&lt;/em&gt; how my website functions, not only because that makes maintaining it a much easier affair, but also because it means that I always know what data is collected — namely none.&lt;/p&gt;
+
+&lt;p&gt;This site used to be hosted on a virtual server by a German company called Strato; as I am, however, a fan of independence, I have, over time, moved my website to a Raspberry Pi 4 which is located in my apartment. Its relocating to my apartment took place shortly after my upgrading my Internet connection speed to 1 Gbit/s, ensuring that page load times are not impacted. The DNS I use is Cloudflare, which make it very easy to hide your actual IP address and which includes an IPv4 tunnel, so that those who do not have IPv6 can still access my IPv6-only website.&lt;/p&gt;
+
+&lt;h3 id=&quot;navigation&quot;&gt;Navigation&lt;/h3&gt;
+
+&lt;p&gt;Navigating the website should be a simple matter. The three buttons at the top take you to either the Agora and the Contact or About pages. The Agora serves as this site’s &lt;q&gt;menu&lt;/q&gt; or &lt;q&gt;hub&lt;/q&gt; and it is whither you should return if you wish to enter a different part of the site than the one you are currently dwelling within. The Agora’s pages are grouped into categories, which each have their own heading with two underlines. Below aforesaid headings, you find links to the different pages you can navigate to with a short description about what you might find therein underneath them.&lt;/p&gt;
+
+&lt;p&gt;When entering a new region of the site — such as the &lt;a href=&quot;https://ancient-greek.net/shelf/physical/index.php&quot;&gt;Physical Shelf&lt;/a&gt; — a new menu item will appear beneath the three mentioned above; you can then click the new menu item to return to the index of the region.&lt;/p&gt;
+
+&lt;h3 id=&quot;offline-version-and-backup&quot;&gt;Offline version and backup&lt;/h3&gt;
+
+&lt;p&gt;Should something happen to my server or my domain, I am keeping a copy of my website in a GitHub repository. I do not update the repository every time I change something on my website and, instead, update it whenever I feel like it.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, the repository should be helpful for those who wish to download the website for themselves to either host a mirror or to simply have access to it offline. It also acts as a backup, so that, if anything should go wrong, there are versions that I can go back to.&lt;/p&gt;
+
+&lt;p&gt;The repository can be found &lt;a href=&quot;https://github.com/mjohanning99/ancient-greek.net&quot;&gt;on my GitHub&lt;/a&gt; or on my self-hosted &lt;a href=&quot;https://git.marvinjohanning.de/marvinjohanning/ancient-greek.net&quot;&gt;Gitea instance&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">A website about Ancient Greek with lots of illustrations and text built to be fast and lightweight.</summary></entry><entry><title type="html">The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text</title><link href="http://localhost:4000/ancient-greek-site-copy/" rel="alternate" type="text/html" title="The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text" /><published>2021-08-10T00:00:00+02:00</published><updated>2021-08-10T00:00:00+02:00</updated><id>http://localhost:4000/ancient-greek-site%20copy</id><content type="html" xml:base="http://localhost:4000/ancient-greek-site-copy/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
   &lt;header&gt;
     &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
   &lt;/header&gt;
