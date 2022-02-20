@@ -1,8 +1,8 @@
 # Site
 title:          Marvin Johanning
-bio:            'Welcome to my personal website. View the “About” page to find some information about me.'
+bio:            'Welcome to my website'
 description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
-picture:        'assets/img/Logo.png'
+picture:        'assets/img/portrait.jpeg'
 locale:         en_UK
 url:            https://marvinjohanning.de
 
@@ -22,7 +22,7 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email: email@nmarvinjohanning.de
+email: email@nmarvinjohanning.de
 #twitter: username
 #facebook: username
 #google:
@@ -32,7 +32,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#github: mjohanning99
+github: mjohanning99
 #stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username

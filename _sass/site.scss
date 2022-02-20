@@ -33,7 +33,7 @@ body {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 11em;
+	margin-top: 2.75em;
 	transition: all .7s;
 }
 .header-home {
@@ -61,11 +61,28 @@ body {
 }
 .article {
 	padding: 0.625em 5em 1.25em;
-	font-size: 0.85em;
+	font-size: 1em;
 }
+.article a {
+	text-decoration: underline;
+}
+.article a:hover {
+	text-decoration: none;
+}
+.article p {
+	text-align: justify;
+}
+
+ul p {
+		margin-top: 0px;
+		margin-bottom: 0.563em;
+		padding: 0.125em 0.625em 0.125em;
+		border: 5px solid white;
+}
+
 .post-list {
 	padding: 0.625em 5em 1.25em;
-	font-size: 0.85em;
+	font-size: 0.95em;
 	ul {
 		list-style-type: none;
 		padding-left: 0;
@@ -103,7 +120,7 @@ body {
 }
 .project-list {
 	padding: 0.625em 5em 1.25em;
-	font-size: 0.85em;
+	font-size: 0.95em;
 	ul {
 		list-style-type: none;
 		padding-left: 0;
@@ -171,7 +188,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
-	font-size: 0.85em;
+	font-size: 0.95em;
 	transition: all .7s;
 	> .list {
 		padding: 0 0.813em 0;
@@ -204,7 +221,7 @@ body {
 .nav-home {
 	display: block;
 	position: relative;
-	top: 12.5em;
+	top: 2.5em;
 	width: 30%;
 	height: 2.5em;
 	line-height: 2.5em;
@@ -213,7 +230,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
-	font-size: 0.85em;
+	font-size: 0.95em;
 	transition: all .7s;
 	> .list {
 		padding: 0 0.813em 0;
@@ -244,6 +261,15 @@ body {
 	}
 }
 .selfie {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0.625em;
+	border: 1px solid $color_1;
+	padding: 0.25em;
+	width: 20.875em !important;
+}
+.selfie_home {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -284,7 +310,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
-	font-size: 0.85em;
+	font-size: 0.95em;
 	font-weight: bold;
 	color: $color_6;
 	transition: all .7s;
@@ -310,7 +336,7 @@ body {
 	margin-left: auto;
 	text-align: center;
 	top: 3.125em;
-	font-size: 0.85em;
+	font-size: 0.95em;
 	font-weight: bold;
 	color: $color_6;
 	transition: all .7s;
