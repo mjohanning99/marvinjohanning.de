@@ -16,7 +16,7 @@
               {% if post.book %}
             <ul>
                 <li style="margin-bottom: 0px;"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-                <p style="margin-bottom: 0px;"><b>Description</b>: {{ post.excerpt }}<br><b>Published</b>: {{ post.date | date_to_long_string }}</p>
+                <p style="margin-bottom: 0px;"><b>Description</b>: {{ post.excerpt }}<br><b>Published</b>: {{ post.date | date_to_long_string }}<br><b>ISBN</b>: {{ post.isbn }}</p>
             </ul>
               {% endif %}
             {% endfor %}
