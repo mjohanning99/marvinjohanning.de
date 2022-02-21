@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: Home
+- title: 🏠Home
   url: /
 
-- title: Books
+- title: 📚Books
   url: /books/
   
-- title: Projects
+- title: 🪐Projects
   url: /projects/
 
-- title: About
+- title: 🌾About
   url: /about/
 
-- title: Blog
+- title: 💻Blog
   url: /blog/

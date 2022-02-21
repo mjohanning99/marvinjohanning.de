@@ -1,5 +1,5 @@
 ---
 layout: book
-title: My Books
+title: 📖 My Books 📖
 excerpt: "A List of my Books"
 ---
