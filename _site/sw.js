@@ -1,8 +1,8 @@
-const version = '20220713193213';
+const version = '20220713204532';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/books/2022/02/15/apocalypse-english/","/books/2021/08/10/apocalypse-greek/","/books/2020/05/16/intricacies/","/about/","/categories/","/elements/","/books/","/blog/","/","/birding/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/statistics/2022/07/13/stats/","/books/2022/02/15/apocalypse-english/","/books/2021/08/10/apocalypse-greek/","/books/2020/05/16/intricacies/","/about/","/categories/","/elements/","/books/","/blog/","/reports/","/","/birding/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

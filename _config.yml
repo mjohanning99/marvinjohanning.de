@@ -65,6 +65,10 @@ collections:
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_image: "/assets/images/books.jpg"
+  
+  reports:
+    title: Birding Reports
+    output: true
 
 # 6. Jekyll collections settings
 defaults:
@@ -127,6 +131,8 @@ navigation_header:
   url: /birding/
 - title: Books
   url: /categories/#Books
+- title: Search
+  url: /search/
 
 navigation_footer:
 - title: Marvin Johanning

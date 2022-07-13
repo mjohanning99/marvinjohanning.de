@@ -1,0 +1,132 @@
+I"�<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ewrd{background-color:#F1F8F6;text-align:center;vertical-align:top}
+.tg .tg-gd2h{color:#262626;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-6xqw{color:#262626;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5x7e{background-color:#F1F8F6;color:#262626;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gd2h"><span style="font-weight:normal;font-style:normal;color:#262626">Vogelname</span></th>
+    <th class="tg-gd2h"><span style="font-weight:normal;font-style:normal;color:#262626">Anzahl</span></th>
+    <th class="tg-gd2h"><span style="font-weight:normal;font-style:normal;color:#262626">Vogelname</span></th>
+    <th class="tg-gd2h"><span style="font-weight:normal;font-style:normal;color:#262626">Anzahl</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6xqw">Höckerschwan</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">9</span></td>
+    <td class="tg-6xqw">Elster</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Nilgans</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">5</span></td>
+    <td class="tg-5x7e">Dohle</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">32</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Stockente</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">120</span></td>
+    <td class="tg-6xqw">Saatkrähe</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Reiherente</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">11</span></td>
+    <td class="tg-5x7e">Rabenkrähe</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">14</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Jagdfasan</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">1</span></td>
+    <td class="tg-6xqw">Kohlmeise</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Mauersegler</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">6</span></td>
+    <td class="tg-5x7e">Blaumeise/Kohlmeise</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Teichhuhn</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">28</span></td>
+    <td class="tg-6xqw">Zilpzalp</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Blässhuhn</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">40</span></td>
+    <td class="tg-5x7e">Mönchsgrasmücke</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Lachmöwe</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">9</span></td>
+    <td class="tg-6xqw">Kleiber</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Kormoran</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">5</span></td>
+    <td class="tg-5x7e">Singdrossel</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Graureiher</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">9</span></td>
+    <td class="tg-6xqw">Amsel</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Mäusebussard</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">3</span></td>
+    <td class="tg-5x7e">Wacholderdrossel</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Eisvogel</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">2</span></td>
+    <td class="tg-6xqw">Rotkehlchen</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Buntspecht</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">9</span></td>
+    <td class="tg-5x7e">Haussperling</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Eichelhäher</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">2</span></td>
+    <td class="tg-6xqw">Gebirgsstelze</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Buchfink</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">5</span></td>
+    <td class="tg-5x7e">Bachstelze</td>
+    <td class="tg-ewrd"><span style="font-weight:normal;font-style:normal;color:#000">5</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6xqw">Grünfink</td>
+    <td class="tg-baqh"><span style="font-weight:normal;font-style:normal;color:#000">1</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+<p></p>
+<p><br /><br /></p>
+:ET

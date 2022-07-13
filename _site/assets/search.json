@@ -26,6 +26,16 @@
         "url": "/books/2022/02/15/apocalypse-english/"
       },
     
+      {
+        "title": "Statistiken vom 25.06 bis 13.07.2022",
+        "excerpt": "Hier eine Übersicht der Statistiken vom 25.06.2022 bis hin zum 13.07.2022. Haben tatsächlich einige Vögel schon finden können.\n",
+        "content": "\n\n\n\n  \n    Vogelname\n    Anzahl\n    Vogelname\n    Anzahl\n  \n\n\n  \n    Höckerschwan\n    9\n    Elster\n    4\n  \n  \n    Nilgans\n    5\n    Dohle\n    32\n  \n  \n    Stockente\n    120\n    Saatkrähe\n    3\n  \n  \n    Reiherente\n    11\n    Rabenkrähe\n    14\n  \n  \n    Jagdfasan\n    1\n    Kohlmeise\n    6\n  \n  \n    Mauersegler\n    6\n    Blaumeise/Kohlmeise\n    2\n  \n  \n    Teichhuhn\n    28\n    Zilpzalp\n    2\n  \n  \n    Blässhuhn\n    40\n    Mönchsgrasmücke\n    3\n  \n  \n    Lachmöwe\n    9\n    Kleiber\n    1\n  \n  \n    Kormoran\n    5\n    Singdrossel\n    1\n  \n  \n    Graureiher\n    9\n    Amsel\n    8\n  \n  \n    Mäusebussard\n    3\n    Wacholderdrossel\n    6\n  \n  \n    Eisvogel\n    2\n    Rotkehlchen\n    4\n  \n  \n    Buntspecht\n    9\n    Haussperling\n    3\n  \n  \n    Eichelhäher\n    2\n    Gebirgsstelze\n    4\n  \n  \n    Buchfink\n    5\n    Bachstelze\n    5\n  \n  \n    Grünfink\n    1\n    \n    \n  \n\n\n\n\n\n",
+        "url": "/statistics/2022/07/13/stats/"
+      },
+    
+  
+    
+    
   
   
   
@@ -51,9 +61,16 @@
   },
   
   {
+    "title": "Birding",
+    "excerpt": "\n",
+    "content": "\nJuly,\n\nJune\n",
+    "url": "/reports/"
+  },
+  
+  {
     "title": "MarvinJohanning.de",
     "excerpt": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.\n",
-    "content": "Hello and welcome to my personal website, MarvinJohanning.de. On here, you will be able to find a plethora of information about me and my projects. I have written a number of books, like photography and birding, like learning languages and more. Currently working as an IT systems technician (IT-Systemelektroniker) in Bielefeld, Germany.\n\nSocial media and other sites\n\nTwitter  twitter\n\nYouTube  youtube\n\n Ancient-Greek.net  link\n\n GitHub  github\n\n eBird  link\n\n Reddit  reddit\n\n Nordrhein-Westfälische Ornithologengesellschaft  link\n\n\n",
+    "content": "Hello and welcome to my personal website, MarvinJohanning.de. On here, you will be able to find a plethora of information about me and my projects. I have written a number of books, like photography and birding, like learning languages and more. Currently working as an IT systems technician (IT-Systemelektroniker) in Bielefeld, Germany.\n\nSocial media and other sites\nYouTube  youtube\n\n Reddit  reddit\n\n  Twitter  twitter\n\n GitHub  github\n\n eBird  link\n\n Ornitho  link\n\n Nordrhein-Westfälische Ornithologengesellschaft  link\n\n Ancient-Greek.net  link\n\n\n",
     "url": "/"
   },
   
