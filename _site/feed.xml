@@ -1,167 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://marvinjohanning.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://marvinjohanning.de/" rel="alternate" type="text/html" /><updated>2022-05-13T13:17:14+02:00</updated><id>https://marvinjohanning.de/feed.xml</id><title type="html">Marvin Johanning</title><subtitle>Marvin Johanning’s personal website</subtitle><entry><title type="html">Ancient-Greek.net — A website about the language of Ancient Greece</title><link href="https://marvinjohanning.de/ancient-greek-site/" rel="alternate" type="text/html" title="Ancient-Greek.net — A website about the language of Ancient Greece" /><published>2022-02-20T00:00:00+01:00</published><updated>2022-02-20T00:00:00+01:00</updated><id>https://marvinjohanning.de/ancient-greek-site</id><content type="html" xml:base="https://marvinjohanning.de/ancient-greek-site/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#about-ancient-greeknet&quot; id=&quot;markdown-toc-about-ancient-greeknet&quot;&gt;About ancient-greek.net&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#content&quot; id=&quot;markdown-toc-content&quot;&gt;Content&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#why-was-the-site-created&quot; id=&quot;markdown-toc-why-was-the-site-created&quot;&gt;Why was the site created?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#main-goals-and-philosophy&quot; id=&quot;markdown-toc-main-goals-and-philosophy&quot;&gt;Main goals and Philosophy&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#navigation&quot; id=&quot;markdown-toc-navigation&quot;&gt;Navigation&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#offline-version-and-backup&quot; id=&quot;markdown-toc-offline-version-and-backup&quot;&gt;Offline version and backup&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2022-07-13T15:37:08+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MarvinJohanning.de</title><subtitle>Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately</subtitle><author><name>MarvinJohanning</name></author><entry><title type="html">John’s Revelation — A Modern Annotated Translation</title><link href="http://localhost:4000/books/2022/02/15/apocalypse-english/" rel="alternate" type="text/html" title="John’s Revelation — A Modern Annotated Translation" /><published>2022-02-15T00:00:00+00:00</published><updated>2022-02-15T00:00:00+00:00</updated><id>http://localhost:4000/books/2022/02/15/apocalypse-english</id><content type="html" xml:base="http://localhost:4000/books/2022/02/15/apocalypse-english/"><![CDATA[<center><img src="/assets/images/books/apocalypse_eng.webp" height="250" width="250" /></center>
 
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;!-- /#table-of-contents --&gt;
+<center><a href="/assets/docs/books/revelation_eng.pdf">Click here to download a PDF copy</a></center>
 
-&lt;center&gt;&lt;b&gt;&lt;a href=&quot;https://ancient-greek.net&quot;&gt;Ancient-Greek.net&lt;/a&gt;&lt;/b&gt; is my website containing lots of information about the language of Greece from the Classical Period to around 500 AD. &lt;/center&gt;
+<h2 id="blurb">Blurb</h2>
+<p>The Revelation of John (or Apocalypse) is one of the most fascinating books of the entire New Testament; it is filled to the brim with colourful and powerful imagery and is as suspenseful as any modern story about the end of the world. This new and modern translation aims to turn the Revelation into a novel closely following the original scripture. Inline notes and comments ensure that the reader understands the context of a passage all the while clearly marking which parts of the translation are the translator’s comments and suggestions. This way, the book can be read either more fluently or, if so desired, in a more literal translation. It is perfect for those who have yet to start studying the Bible and wish to start by reading the most interesting book the Bible has to offer.</p>
 
-&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Ancient-Greek.net is my main and most regularily updated website. This post contains some information about the website, why it was created and more.&lt;/p&gt;
+<h2 id="information-about-the-book">Information about the book</h2>
+<p>As you are surely aware, I published my first translation — the one which included the original text and illustrations after every chapter — of John’s Revelation (or Apocalypse) in the summer of last year. I had planned on selling it internationally, as my publisher was offering at the time, but was surprised to find out that international distribution was only offered for paperbacks. Additionally, the book’s rather steep price of €25.99 must have surely deterred many people from buying it.</p>
 
-&lt;h2 id=&quot;about-ancient-greeknet&quot;&gt;About ancient-greek.net&lt;/h2&gt;
+<p>Therefore, it has been my plan to publish a cheaper — and more mass-market — version of my book for some time now; and this has now finally been done. This new English-only edition features a completely overhauled and modern design and a much lower price of only €9.99. I sincerely hope that this will ensure that a larger number of people will be able to afford the book and thus have the chance to read my translation.</p>
 
-&lt;p&gt;This website began as a rather small portion of my main website, marvinjohanning.de; as I studied more, however, and kept amending it and adding new information, it felt as if my main website had turned into nothing but a hub about information about Ancient Greek. I, thus, decided that it was time to move this part of my website onto its own domain, ancient-greek.net.&lt;/p&gt;
+<p>The new design and typesetting has been created to ensure that the book look and feel is more akin to that of a contemporary novel; I have, therefore, also decided to leave out line and verse numbers entirely. I want people to read this translation as if it were just another contemporary novel, albeit one with is, at times, somewhat strangely worded.</p>]]></content><author><name>MarvinJohanning</name></author><category term="Books" /><summary type="html"><![CDATA[My translation of the Revelation of John written in a modern style with a contemporary book design. Ideal for newcomers to the Bible.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text</title><link href="http://localhost:4000/books/2021/08/10/apocalypse-greek/" rel="alternate" type="text/html" title="The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text" /><published>2021-08-10T00:00:00+01:00</published><updated>2021-08-10T00:00:00+01:00</updated><id>http://localhost:4000/books/2021/08/10/apocalypse-greek</id><content type="html" xml:base="http://localhost:4000/books/2021/08/10/apocalypse-greek/"><![CDATA[<center><img src="/assets/images/books/apocalypse_grc.webp" height="250" width="250" /></center>
 
-&lt;p&gt;This way, it is possible for me to keep my regular and private website separate from my resources for Ancient Greek; and, additionally, the current domain name is much more easily recognisable as what it is — a website about Ancient Greek.&lt;/p&gt;
+<center><a href="/assets/docs/books/revelation.pdf">Click here to download a PDF copy</a></center>
 
-&lt;p&gt;If you, however, wish to see the website in its old form, you can find numerous snapshots of it over on the Wayback Machine. The earliest snapshot of the Greek portion which I was able to find dates to &lt;a href=&quot;https://web.archive.org/web/20200920080314/marvinjohanning.de/greek/index.php&quot;&gt;September 2020&lt;/a&gt;; you will find that a lot has changed since then — and I hope it has changed for the better. Please note that I am no longer maintaining marvinjohanning.de and the website, instead, redirects to ancient-greek.net&lt;/p&gt;
+<h2 id="blurb">Blurb</h2>
+<p>The Apocalypse of John is one of the most fascinating books of the entire New Testament; it is filled to the brim with colourful and powerful imagery and is as suspenseful as any modern story about the end of the World. In this new and modern translation, you will find not only a pleasant-to-read (but still faithful to the original) edition of the Revelation, but also the original Greek text on the opposite page and plenty of notes to help you understand the original scripture.</p>
 
-&lt;h3 id=&quot;content&quot;&gt;Content&lt;/h3&gt;
+<h2 id="information-about-the-book">Information about the book</h2>
+<p>Ihave been working on my own translation of the Revelation for quite a while now and decided it was time to finally publish it as a book. It is published and printed by the Books on Demand GmbH in Germany. The initial release consists of an e-book and a dust-jacketed hard-cover, with the latter costing €25.99 and the former being entirely free. A cheaper (probably around €14.99) paperback version will also be released over the course of the next few months.</p>
 
-&lt;p&gt;I tend to update this page at least once per week; frequently I update it even more often, but as I am, at times, rather busy — or do not know what to add — the amount of time it takes me to add something new might increase. Nevertheless, rest assured that the update frequency of this website will be kept as high as I am able to keep it; for, indeed, writing about Ancient Greek, in turn, allows me to actually learn the language better.&lt;/p&gt;
+<p>It can be bought and ordered at all bookstores in Germany, most bookstores across Europe and on Amazon. People living in the US will — for now, at any rate — have to order the book from Amazon UK. I am working on getting a paperback version released worldwide, so that this problem can be solved.</p>
 
-&lt;p&gt;But what about actual content that might be found on this page? There are numerous things here, actually, and the amount of categories keeps growing. Mainly, however, you will be able to look at my shelves — both physical and virtual — to see what kinds of books I am using to learn the language and read reviews about them; you will be able to read original ancient texts with transliterations and translations; you can find my own compositions in Ancient Greek; and numerous other things, such as my blog or some articles.&lt;/p&gt;
+<h2 id="obtaining-your-copy">Obtaining your copy</h2>
+<p>There are numerous ways of obtaining your own copy of the book; the most complicated one would be the acquisition of the book’s source code and compiling it yourself. The second, and perhaps easier way, of obtaining a digital copy of the book is to either <a href="https://ancient-greek.net/translations/GNT/apocalypse/index.php">read it online</a> or to download the original e-book. If you prefer physical media, you can also buy the book directly from your local book store by providing them with the ISBN (978-3-7543-2897-2). The book will be printed on demand and should generally arrive within a week or so.</p>]]></content><author><name>MarvinJohanning</name></author><category term="Books" /><summary type="html"><![CDATA[My translation of the Apocalypse (or Revelation) of John written in a modern style and with pictures and paintings following every chapter and the original Greek text.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Intricacies of Ancient Egyptian Hieroglpyhics</title><link href="http://localhost:4000/books/2020/05/16/intricacies/" rel="alternate" type="text/html" title="The Intricacies of Ancient Egyptian Hieroglpyhics" /><published>2020-05-16T00:00:00+01:00</published><updated>2020-05-16T00:00:00+01:00</updated><id>http://localhost:4000/books/2020/05/16/intricacies</id><content type="html" xml:base="http://localhost:4000/books/2020/05/16/intricacies/"><![CDATA[<center><img src="/assets/images/books/intricacies.webp" height="250" width="250" /></center>
 
-&lt;p&gt;I am also a great fan of images and visual content in general; you will, therefore, find a picture on virtually any page and most articles will contain several pictures relating to the topic being discussed within said article. I always take the utmost care to make certain that every graphic I use can be used by me without any further issues; should you, however, find that an image you find hereon violates your — or someone else’s — copyright, then I would like to ask you to &lt;a href=&quot;https://ancient-greek.net/contact.php&quot;&gt;send me an email&lt;/a&gt;.&lt;/p&gt;
+<center><a href="/assets/docs/books/intricacies.pdf">Click here to download a PDF copy</a></center>
 
-&lt;h3 id=&quot;why-was-the-site-created&quot;&gt;Why was the site created?&lt;/h3&gt;
+<h2 id="blurb">Blurb</h2>
+<p>The language spoken by the Ancient Egyptians is a very mystical language indeed. Spoken by a culture as old to the Romans as they are to us — it seems impossible for us to decipher these mysterious symbols and understand the words uttered by the kings of yore; yet, in this book, you will be learning the very basics of this language using real-world texts and for those wishing to delve even deeper into the culture behind this fascinating language, the two additional chapters on date-keeping and the Westcar Papyrus will provide you with further insight.</p>
 
-&lt;p&gt;You might now understandably be wondering why anyone would create a website such as this one in the year 2021, where there exist a myriad of websites on every conceivable topic; and the majority of aforesaid websites have a much higher budget and a much bigger audience. Aside from my hating the majority of the modern Web and its focus on money, bloatedness and mobile-first approaches, I find that there needs to be more websites made as websites were made &lt;em&gt;in the days of old&lt;/em&gt;.&lt;/p&gt;
+<h2 id="information-about-the-book">Information about the book</h2>
+<p>This is the first book I have ever published. I started working on it in late 2018 and finally published in in March 2020, shortly after the beginning of the COVID-19 pandemic. It describes how to read Ancient Egyptian hieroglyphs in a way so that even people who are not linguists can pick up the book and know the basics of this writing system in a rather short period of time. I am planning on re-publishing it using my current publisher some time soon so that it can be made available internationally as well.</p>
 
-&lt;p&gt;I therefore decided to create this nice little corner of the Web, in the hopes of finding other people that agree with my sentiment that most modern sites are too bloated for their own good; and that most sites nowadays focus more on having a &lt;q&gt;cool&lt;/q&gt; design, but do not take into account what is most important: content.&lt;/p&gt;
-
-&lt;p&gt;Aside from the aforementioned reasons, I simply wanted to create some content regarding Ancient Greek and make it available for everyone; indeed, even before the creation of this website, I would write reviews and the like into my notebook. But seeing as the Web allows me to make such content available to a much wider audience than simply myself, I decided to create a website.&lt;/p&gt;
-
-&lt;h3 id=&quot;main-goals-and-philosophy&quot;&gt;Main goals and Philosophy&lt;/h3&gt;
-
-&lt;p&gt;The main philosophy behind this website’s design is simplicity. For one, I refrain from using cookies and other privacy-invading things such as Google Analytics, since an informational website such as this one should not require the visitor to accept cookies, especially not third-party ones. In an attempt to minimise the reliance on other services, all fonts and media files are hosted directly on my server — the only time your computer should be required to access a different web server, is when you click one of the links clearly marked as a redirect to a third-party site.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, due to my not being a fan of the majority of the modern Web and its glaring issues, I am intentionally keeping this website’s look simplistic; so much so, in fact, that it should remind you of the Web 1.0 days. Nevertheless, as time has — for better or worse — moved on, and the devices with which people access the Web have drastically changed, I have decided to go in on a compromise: I will try honouring the principles of Web 1.0, whilst also incorporating more modern concepts — such as responsive design, so that the website can be viewed without issues on mobile devices — so that most modern users will be able to browse the site without any issues.&lt;/p&gt;
-
-&lt;p&gt;As I am also not a fan of the utterly useless copyright laws we have at present, I have decided to make &lt;em&gt;all&lt;/em&gt; of this site’s content available under a Free Culture approved Creative Commons license, details about which can be found in the footer of the page.&lt;/p&gt;
-
-&lt;p&gt;Every photograph and piece of text you find here is — unless the text beneath the photograph or title says otherwise — licensed under the license you can find below. I, therefore, highly encourage you to share, remix and use this work in any way you please — so long as you abide by the rather simple to understand license terms.&lt;/p&gt;
-
-&lt;p&gt;I also write every single piece of code powering the website myself — barring the occasional help I get from various friends whose knowledge of Web development is far greater than mine. I always want to know &lt;em&gt;exactly&lt;/em&gt; how my website functions, not only because that makes maintaining it a much easier affair, but also because it means that I always know what data is collected — namely none.&lt;/p&gt;
-
-&lt;p&gt;This site used to be hosted on a virtual server by a German company called Strato; as I am, however, a fan of independence, I have, over time, moved my website to a Raspberry Pi 4 which is located in my apartment. Its relocating to my apartment took place shortly after my upgrading my Internet connection speed to 1 Gbit/s, ensuring that page load times are not impacted. The DNS I use is Cloudflare, which make it very easy to hide your actual IP address and which includes an IPv4 tunnel, so that those who do not have IPv6 can still access my IPv6-only website.&lt;/p&gt;
-
-&lt;h3 id=&quot;navigation&quot;&gt;Navigation&lt;/h3&gt;
-
-&lt;p&gt;Navigating the website should be a simple matter. The three buttons at the top take you to either the Agora and the Contact or About pages. The Agora serves as this site’s &lt;q&gt;menu&lt;/q&gt; or &lt;q&gt;hub&lt;/q&gt; and it is whither you should return if you wish to enter a different part of the site than the one you are currently dwelling within. The Agora’s pages are grouped into categories, which each have their own heading with two underlines. Below aforesaid headings, you find links to the different pages you can navigate to with a short description about what you might find therein underneath them.&lt;/p&gt;
-
-&lt;p&gt;When entering a new region of the site — such as the &lt;a href=&quot;https://ancient-greek.net/shelf/physical/index.php&quot;&gt;Physical Shelf&lt;/a&gt; — a new menu item will appear beneath the three mentioned above; you can then click the new menu item to return to the index of the region.&lt;/p&gt;
-
-&lt;h3 id=&quot;offline-version-and-backup&quot;&gt;Offline version and backup&lt;/h3&gt;
-
-&lt;p&gt;Should something happen to my server or my domain, I am keeping a copy of my website in a GitHub repository. I do not update the repository every time I change something on my website and, instead, update it whenever I feel like it.&lt;/p&gt;
-
-&lt;p&gt;Nevertheless, the repository should be helpful for those who wish to download the website for themselves to either host a mirror or to simply have access to it offline. It also acts as a backup, so that, if anything should go wrong, there are versions that I can go back to.&lt;/p&gt;
-
-&lt;p&gt;The repository can be found &lt;a href=&quot;https://github.com/mjohanning99/ancient-greek.net&quot;&gt;on my GitHub&lt;/a&gt; or on my self-hosted &lt;a href=&quot;https://git.marvinjohanning.de/marvinjohanning/ancient-greek.net&quot;&gt;Gitea instance&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">A website about Ancient Greek with lots of illustrations and text built to be fast and lightweight.</summary></entry><entry><title type="html">tagalog.marvinjohanning.de — A language learning diary</title><link href="https://marvinjohanning.de/tagalog.marvinjohanning.de/" rel="alternate" type="text/html" title="tagalog.marvinjohanning.de — A language learning diary" /><published>2022-02-20T00:00:00+01:00</published><updated>2022-02-20T00:00:00+01:00</updated><id>https://marvinjohanning.de/tagalog.marvinjohanning.de</id><content type="html" xml:base="https://marvinjohanning.de/tagalog.marvinjohanning.de/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;!-- /#table-of-contents --&gt;
-
-&lt;center&gt;&lt;b&gt;&lt;a href=&quot;https://tagalog.marvinjohanin.de&quot;&gt;&lt;/a&gt;tagalog.marvinjohanning.de&lt;/b&gt; is my website containing my language learning diary for the language Tagalog / Filipino.&lt;/center&gt;</content><author><name></name></author><summary type="html">My language learning diary for Tagalog / Filipino.</summary></entry><entry><title type="html">John’s Revelation — A Modern Annotated Translation</title><link href="https://marvinjohanning.de/apocalypse-english/" rel="alternate" type="text/html" title="John’s Revelation — A Modern Annotated Translation" /><published>2022-02-15T00:00:00+01:00</published><updated>2022-02-15T00:00:00+01:00</updated><id>https://marvinjohanning.de/apocalypse-english</id><content type="html" xml:base="https://marvinjohanning.de/apocalypse-english/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#blurb&quot; id=&quot;markdown-toc-blurb&quot;&gt;Blurb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#information-about-the-book&quot; id=&quot;markdown-toc-information-about-the-book&quot;&gt;Information about the book&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;!-- /#table-of-contents --&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/apocalypse_eng.webp&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
-
-&lt;center&gt;&lt;a href=&quot;/assets/pdf/revelation_eng.pdf&quot;&gt;Click here to download a PDF copy&lt;/a&gt;&lt;/center&gt;
-
-&lt;h2 id=&quot;blurb&quot;&gt;Blurb&lt;/h2&gt;
-&lt;p&gt;The Revelation of John (or Apocalypse) is one of the most fascinating books of the entire New Testament; it is filled to the brim with colourful and powerful imagery and is as suspenseful as any modern story about the end of the world. This new and modern translation aims to turn the Revelation into a novel closely following the original scripture. Inline notes and comments ensure that the reader understands the context of a passage all the while clearly marking which parts of the translation are the translator’s comments and suggestions. This way, the book can be read either more fluently or, if so desired, in a more literal translation. It is perfect for those who have yet to start studying the Bible and wish to start by reading the most interesting book the Bible has to offer.&lt;/p&gt;
-
-&lt;h2 id=&quot;information-about-the-book&quot;&gt;Information about the book&lt;/h2&gt;
-&lt;p&gt;As you are surely aware, I published my first translation — the one which included the original text and illustrations after every chapter — of John’s Revelation (or Apocalypse) in the summer of last year. I had planned on selling it internationally, as my publisher was offering at the time, but was surprised to find out that international distribution was only offered for paperbacks. Additionally, the book’s rather steep price of €25.99 must have surely deterred many people from buying it.&lt;/p&gt;
-
-&lt;p&gt;Therefore, it has been my plan to publish a cheaper — and more mass-market — version of my book for some time now; and this has now finally been done. This new English-only edition features a completely overhauled and modern design and a much lower price of only €9.99. I sincerely hope that this will ensure that a larger number of people will be able to afford the book and thus have the chance to read my translation.&lt;/p&gt;
-
-&lt;p&gt;The new design and typesetting has been created to ensure that the book look and feel is more akin to that of a contemporary novel; I have, therefore, also decided to leave out line and verse numbers entirely. I want people to read this translation as if it were just another contemporary novel, albeit one with is, at times, somewhat strangely worded.&lt;/p&gt;</content><author><name></name></author><summary type="html">My translation of the Revelation of John written in a modern style with a contemporary book design. Ideal for newcomers to the Bible.</summary></entry><entry><title type="html">The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text</title><link href="https://marvinjohanning.de/apocalypse-greek/" rel="alternate" type="text/html" title="The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text" /><published>2021-08-10T00:00:00+02:00</published><updated>2021-08-10T00:00:00+02:00</updated><id>https://marvinjohanning.de/apocalypse-greek</id><content type="html" xml:base="https://marvinjohanning.de/apocalypse-greek/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#blurb&quot; id=&quot;markdown-toc-blurb&quot;&gt;Blurb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#information-about-the-book&quot; id=&quot;markdown-toc-information-about-the-book&quot;&gt;Information about the book&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#obtaining-your-copy&quot; id=&quot;markdown-toc-obtaining-your-copy&quot;&gt;Obtaining your copy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;!-- /#table-of-contents --&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/apocalypse_grc.webp&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
-
-&lt;center&gt;&lt;a href=&quot;/assets/pdf/revelation.pdf&quot;&gt;Click here to download a PDF copy&lt;/a&gt;&lt;/center&gt;
-
-&lt;h2 id=&quot;blurb&quot;&gt;Blurb&lt;/h2&gt;
-&lt;p&gt;The Apocalypse of John is one of the most fascinating books of the entire New Testament; it is filled to the brim with colourful and powerful imagery and is as suspenseful as any modern story about the end of the World. In this new and modern translation, you will find not only a pleasant-to-read (but still faithful to the original) edition of the Revelation, but also the original Greek text on the opposite page and plenty of notes to help you understand the original scripture.&lt;/p&gt;
-
-&lt;h2 id=&quot;information-about-the-book&quot;&gt;Information about the book&lt;/h2&gt;
-&lt;p&gt;Ihave been working on my own translation of the Revelation for quite a while now and decided it was time to finally publish it as a book. It is published and printed by the Books on Demand GmbH in Germany. The initial release consists of an e-book and a dust-jacketed hard-cover, with the latter costing €25.99 and the former being entirely free. A cheaper (probably around €14.99) paperback version will also be released over the course of the next few months.&lt;/p&gt;
-
-&lt;p&gt;It can be bought and ordered at all bookstores in Germany, most bookstores across Europe and on Amazon. People living in the US will — for now, at any rate — have to order the book from Amazon UK. I am working on getting a paperback version released worldwide, so that this problem can be solved.&lt;/p&gt;
-
-&lt;h2 id=&quot;obtaining-your-copy&quot;&gt;Obtaining your copy&lt;/h2&gt;
-&lt;p&gt;There are numerous ways of obtaining your own copy of the book; the most complicated one would be the acquisition of the book’s source code and compiling it yourself. The second, and perhaps easier way, of obtaining a digital copy of the book is to either &lt;a href=&quot;https://ancient-greek.net/translations/GNT/apocalypse/index.php&quot;&gt;read it online&lt;/a&gt; or to download the original e-book. If you prefer physical media, you can also buy the book directly from your local book store by providing them with the ISBN (978-3-7543-2897-2). The book will be printed on demand and should generally arrive within a week or so.&lt;/p&gt;</content><author><name></name></author><summary type="html">My translation of the Apocalypse (or Revelation) of John written in a modern style and with pictures and paintings following every chapter and the original Greek text.</summary></entry><entry><title type="html">The Intricacies of Ancient Egyptian Hieroglpyhics</title><link href="https://marvinjohanning.de/intricacies/" rel="alternate" type="text/html" title="The Intricacies of Ancient Egyptian Hieroglpyhics" /><published>2020-05-16T00:00:00+02:00</published><updated>2020-05-16T00:00:00+02:00</updated><id>https://marvinjohanning.de/intricacies</id><content type="html" xml:base="https://marvinjohanning.de/intricacies/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#blurb&quot; id=&quot;markdown-toc-blurb&quot;&gt;Blurb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#information-about-the-book&quot; id=&quot;markdown-toc-information-about-the-book&quot;&gt;Information about the book&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#obtaining-your-copy&quot; id=&quot;markdown-toc-obtaining-your-copy&quot;&gt;Obtaining your copy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;!-- /#table-of-contents --&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/intricacies.webp&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
-
-&lt;center&gt;&lt;a href=&quot;/assets/pdf/intricacies.pdf&quot;&gt;Click here to download a PDF copy&lt;/a&gt;&lt;/center&gt;
-
-&lt;h2 id=&quot;blurb&quot;&gt;Blurb&lt;/h2&gt;
-&lt;p&gt;The language spoken by the Ancient Egyptians is a very mystical language indeed. Spoken by a culture as old to the Romans as they are to us — it seems impossible for us to decipher these mysterious symbols and understand the words uttered by the kings of yore; yet, in this book, you will be learning the very basics of this language using real-world texts and for those wishing to delve even deeper into the culture behind this fascinating language, the two additional chapters on date-keeping and the Westcar Papyrus will provide you with further insight.&lt;/p&gt;
-
-&lt;h2 id=&quot;information-about-the-book&quot;&gt;Information about the book&lt;/h2&gt;
-&lt;p&gt;This is the first book I have ever published. I started working on it in late 2018 and finally published in in March 2020, shortly after the beginning of the COVID-19 pandemic. It describes how to read Ancient Egyptian hieroglyphs in a way so that even people who are not linguists can pick up the book and know the basics of this writing system in a rather short period of time. I am planning on re-publishing it using my current publisher some time soon so that it can be made available internationally as well.&lt;/p&gt;
-
-&lt;h2 id=&quot;obtaining-your-copy&quot;&gt;Obtaining your copy&lt;/h2&gt;
-&lt;p&gt;At present, there are merely two ways of obtaining your own copy; you can either download the PDF from this website or get the book using its ISBN. The latter may, however, prove difficult. I am planning on re-publishing this book but under a different publisher so that it can be distributed internationally as well.&lt;/p&gt;</content><author><name></name></author><summary type="html">A book for learning the basics of Ancient Egyptian Hieroglyphs for people with absolutely no linguistic background; teaches the basics in an accessible manner.</summary></entry></feed>
+<h2 id="obtaining-your-copy">Obtaining your copy</h2>
+<p>At present, there are merely two ways of obtaining your own copy; you can either download the PDF from this website or get the book using its ISBN. The latter may, however, prove difficult. I am planning on re-publishing this book but under a different publisher so that it can be distributed internationally as well.</p>]]></content><author><name>MarvinJohanning</name></author><category term="Books" /><summary type="html"><![CDATA[A book for learning the basics of Ancient Egyptian Hieroglyphs for people with absolutely no linguistic background; teaches the basics in an accessible manner.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

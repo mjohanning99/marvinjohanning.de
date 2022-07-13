@@ -5,14 +5,13 @@ date:   2021-08-10
 isbn: 978-3-7543-2897-2
 excerpt: "My translation of the Apocalypse (or Revelation) of John written in a modern style and with pictures and paintings following every chapter and the original Greek text."
 book: true
+categories: Books
 tag:
 ---
 
-{% include toc.html %}
+<center><img src="/assets/images/books/apocalypse_grc.webp" height="250" width="250"></center>
 
-<img src="/assets/img/apocalypse_grc.webp" height="250" width="250">
-
-<center><a href="/assets/pdf/revelation.pdf">Click here to download a PDF copy</a></center>
+<center><a href="/assets/docs/books/revelation.pdf">Click here to download a PDF copy</a></center>
 
 
 ## Blurb
