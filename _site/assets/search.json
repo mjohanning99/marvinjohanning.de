@@ -61,17 +61,17 @@
   },
   
   {
-    "title": "Birding",
-    "excerpt": "\n",
-    "content": "\nJuly,\n\nJune\n",
-    "url": "/reports/"
-  },
-  
-  {
     "title": "MarvinJohanning.de",
     "excerpt": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.\n",
     "content": "Hello and welcome to my personal website, MarvinJohanning.de. On here, you will be able to find a plethora of information about me and my projects. I have written a number of books, like photography and birding, like learning languages and more. Currently working as an IT systems technician (IT-Systemelektroniker) in Bielefeld, Germany.\n\nSocial media and other sites\nYouTube  youtube\n\n Reddit  reddit\n\n  Twitter  twitter\n\n GitHub  github\n\n eBird  link\n\n Ornitho  link\n\n Nordrhein-Westfälische Ornithologengesellschaft  link\n\n Ancient-Greek.net  link\n\n\n",
     "url": "/"
+  },
+  
+  {
+    "title": "Birding",
+    "excerpt": "\n",
+    "content": "This page contains my birding reports for 2022, the majority of which will be written in German. Feel free to download them, share them and use them for your own projects. They are all licensed under the Creative Commons license CC-BY-NC-SA 4.0 and can be used in accordance to the license text.\n\nJuly\n09.07.2022  link\n\n 02.07.2022  link\n\n\nJune\n26.06.2022  link\n\n 25.06.2022  link\n\n",
+    "url": "/reports/"
   },
   
   {
