@@ -21,4 +21,4 @@ I also thoroughly like writing things, be it birding reports or books. I have wr
 ### Other
 I also enjoy travelling very much, even though I have not visited that many countries or places yet because of lack of money. Besides the language and travelling stuff, I also enjoy trying out new types of coffee, tea, wine, whisk(e)y and beer which is often accompanied by my reading a book or just listening to music (Klaus Schulze, Neuronium, Tangerine Dream, Эдуард Артемьев, 冨田 勲 — you get the picture, a lot of perhaps more ambient electronic music — and just a lot of 70s and 80s in general (I especially enjoy Japanese 70s). I also highly enjoy a lot of classical music — Beethoven and Vivaldi being one of my favourites — and I also think a lot of Vapourwave is rather nice.
 
-I also do a bit of programming every now and then. The majority of my programming projects can be found on my <a href="https://github.com/mjohanning99">Github</a> page.
+I also do a bit of programming every now and then. The majority of my programming projects can be found on my <a href="https://github.com/mjohanning99">GitHub</a> page.

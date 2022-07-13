@@ -14,6 +14,12 @@
   {% elsif page.layout == "birding" %}
     <section class="section  section--description">
       <h3>Birds!</h3>
+      <p>Click one of the buttons below to be transported to the corresponding page (birding reports, birding statistics etc.).</p>
+      
+      <div style="text-align: center;">
+        {% include button-100.html text="Birding Reports" link="/categories/#reports" color="$linkColour" %} 
+        {% include button-100.html text="Birding Statistics" link="/categories/#reports" color="$linkColour" %}
+      </div>
       <img src="/assets/images/birding_collage.jpg">
     </section>
 

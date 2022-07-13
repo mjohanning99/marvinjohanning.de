@@ -302,6 +302,30 @@ select {
   border: none;
   box-shadow: none;
   border-radius: 0;
+  /*width: 100%;*/
+  -webkit-appearance: none;
+  .icon {
+    margin: 0 0 .35rem;
+  }
+}
+
+button,
+.hyperbutton,
+input[type="text"],
+input[type="email"],
+input[type="search"],
+input[type="submit"],
+input[type="color"],
+textarea,
+select {
+  padding: .6rem 1.2rem;
+  margin-bottom: .6rem;
+  transition: color .1s, background-color .1s, border .1s;
+  line-height: inherit;
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  width: 50%;
   -webkit-appearance: none;
   .icon {
     margin: 0 0 .35rem;
