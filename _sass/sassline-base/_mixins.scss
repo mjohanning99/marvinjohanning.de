@@ -53,6 +53,9 @@ $max-widths: map-values($maxwidths);
       font-size: nth($sizes, $i) / 16 * 80%;
     }
   }
+  @media only screen and (max-width: 768px) {
+    font-size: nth($sizes, 1) / 16 * 100%;
+  }
 }
 
 // Max-widths for typeset containers, outputted in correct breakpoints.
