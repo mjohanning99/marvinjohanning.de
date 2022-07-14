@@ -64,7 +64,7 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
-    feature_image: "/assets/images/books.jpg"
+    feature_image: "/assets/images/books.webp"
   
   reports:
     title: Birding Reports
@@ -121,17 +121,19 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
+- title: 🏠 Home
   url: /
-- title: About
+- title: 🙋‍♂️ About
   url: /about/
-- title: Blog
+- title: 🖋 Blog
   url: /blog/
-- title: Birding
+- title: 🦜 Birding
   url: /birding/
-- title: Books
+- title: 📚 Books
   url: /categories/#Books
-- title: Search
+- title: 📷 Photography
+  url: /photography/
+- title: 🔎 Search
   url: /search/
 
 navigation_footer:

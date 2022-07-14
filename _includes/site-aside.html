@@ -8,7 +8,7 @@
   {% elsif page.layout == "about" %}
     <section class="section  section--description">
       <h3>This is me</h3>
-      <img src="/assets/images/me.jpg">
+      <img src="/assets/images/me.webp">
     </section>
 
   {% elsif page.layout == "birding" %}
@@ -17,10 +17,11 @@
       <p>Click one of the buttons below to be transported to the corresponding page (birding reports, birding statistics etc.).</p>
       
       <div style="text-align: center;">
+        {% include button-100.html text="Photos of Birds" icon="link" link="/birding/birds_photographed/" color="$linkColour" %} 
         {% include button-100.html text="Birding Reports" icon="link" link="/reports/" color="$linkColour" %} 
         {% include button-100.html text="Birding Statistics" icon="link" link="/categories/#statistics" color="$linkColour" %}
       </div>
-      <img src="/assets/images/birding_collage.jpg">
+      <img src="/assets/images/birding_collage.webp">
     </section>
 
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
