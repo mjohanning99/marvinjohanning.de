@@ -1,4 +1,4 @@
-I"¿<p>This page contains a list of all the birds I have seen and of which I was able to take a photo. This page will be updated as soon as I manage to take a picture of a bird I have not yet taken a picture of. To see a list of all the birds I have ever seen or heard (and not necessarily photographed), please check out the <a href="/categories/#statistics">birding statistics</a>.</p>
+I"µ<p>This page contains a list of all the birds I have seen and of which I was able to take a photo. This page will be updated as soon as I manage to take a picture of a bird I have not yet taken a picture of. To see a list of all the birds I have ever seen or heard (and not necessarily photographed), please check out the <a href="/categories/#statistics">birding statistics</a>.</p>
 
 <div style="text-align: center;">
 <label class="textOverImage" style="background-image:url(/assets/images/birds/corvidae/jackdaw.webp)">
@@ -89,7 +89,6 @@
   </div>
 </label>
 
-
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/cormorant.webp)">
   <input type="checkbox" />
   <h2>Cormorant</h2>
@@ -127,6 +126,14 @@
   <h2>White Wagtail</h2>
   <div>
     White Wagtail
+  </div>
+</label>
+
+<label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/king.webp)">
+  <input type="checkbox" />
+  <h2>Common Kingfisher</h2>
+  <div>
+    Common Kingfisher
   </div>
 </label>
 
@@ -193,6 +200,8 @@
     Greenfinch
   </div>
 </label>
+
+<!-- TODO: Change Nuthatch picture -->
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/nuthatch.webp)">
   <input type="checkbox" />
