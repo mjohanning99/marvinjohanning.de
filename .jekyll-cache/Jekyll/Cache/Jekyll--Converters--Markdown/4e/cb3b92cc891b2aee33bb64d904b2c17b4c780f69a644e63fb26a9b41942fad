@@ -1,0 +1,20 @@
+I"N	<figure class="figure  figure--right">
+  <img class="image" src="/assets/images/nwo.jpeg" alt="Right aligned image" width="300" height="800" />
+  <figcaption class="caption">Right aligned image</figcaption>
+</figure>
+
+<p>This page contains some information about my hobby of birding / birdwatching. You will find some information about my <a href="/reports/">birding reports</a>, the clubs I participate in, <a href="/birding/birds_photographed/">what birds I have seen</a>, what programs I use and more.</p>
+
+<h3 id="general-information">General information</h3>
+<p>I mostly go birding in my general area, but I am planning on visiting other locations in order to see birds which do not reside in Bielefeld and the surrounding region. I mostly use my Canon M100 camera with a 55 - 200 mm lens to take and watch the birds, but I am planning on upgrading both my camera and, especially, my lens some time soon. I have also recently begun recording birds’ songs and calls and creating spectrograms thereof.</p>
+
+<h3 id="programs-i-use">Programs I use</h3>
+<p>I use a variety of programs and website for identifying birds, writing down and sharing my sightings, editing audio recordings and more.</p>
+
+<h4 id="scythebill">Scythebill</h4>
+<p>The program I use most frequently is <a href="https://www.scythebill.com">Scythebill</a>; it is free and open-source software which you can use to enter your sightings and export them to, for example, eBird or iNaturalist. I have even helped somewhat with the German translation of this program. It has a lot of features and the developer is friendly and replies swiftly to emails when you have problems or ideas on how to improve it. This is, in my opinion, a must-have! You can even import your sightings from eBird or even the Ornitho system prevalent in German-speaking areas of Europe.</p>
+
+<h4 id="raven-lite">Raven Lite</h4>
+<p>Raven Lite is a great program for analysing and improving one’s audio recordings of bird songs and calls. Additionally, it allows you to view the spectrogram of a particular audio recording, adjust it to your liking (themes, contrast, etc.) and even export is as an image. I tend to pre-process my audio slightly using Audacity, but I am sure all that processing (mostly applying high- and low-pass filters and removing noise) can be doing quite comfortably in Raven Lite as well if you know how to.</p>
+
+:ET
