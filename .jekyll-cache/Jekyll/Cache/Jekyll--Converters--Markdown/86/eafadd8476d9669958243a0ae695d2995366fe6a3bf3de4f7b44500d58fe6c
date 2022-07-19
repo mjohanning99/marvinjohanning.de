@@ -1,15 +1,8 @@
----
-layout: birding
-title: Photos of birds I have seen
-feature_image: "/assets/images/birding.webp"
-aside: true 
----
-
-<p>This page contains a list of all the birds I have seen and of which I was able to take a photo. This page will be updated as soon as I manage to take a picture of a bird I have not yet taken a picture of. To see a list of all the birds I have ever seen or heard (and not necessarily photographed), please check out the <a href="/categories/#statistics">birding statistics</a>.</p>
+I"è<p>This page contains a list of all the birds I have seen and of which I was able to take a photo. This page will be updated as soon as I manage to take a picture of a bird I have not yet taken a picture of. To see a list of all the birds I have ever seen or heard (and not necessarily photographed), please check out the <a href="/categories/#statistics">birding statistics</a>.</p>
 
 <div style="text-align: center;">
 <label class="textOverImage" style="background-image:url(/assets/images/birds/corvidae/jackdaw.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Jackdaw</h2>
   <div>
     Jackdaw
@@ -17,7 +10,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/corvidae/rook.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Rook</h2>
   <div>
     Rook
@@ -25,7 +18,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/corvidae/crow.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Crow</h2>
   <div>
     Crow
@@ -33,7 +26,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/corvidae/magpie.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Magpie</h2>
   <div>
     Magpie
@@ -41,7 +34,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/corvidae/jay.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Eurasian Jay</h2>
   <div>
     Eurasian Jay
@@ -49,7 +42,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/grey_heron.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Grey Heron</h2>
   <div>
     Grey Heron
@@ -57,7 +50,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/tufted_duck.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Tufted Duck</h2>
   <div>
     Tufted Duck
@@ -65,7 +58,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/coot.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Coot</h2>
   <div>
     Coot
@@ -73,7 +66,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/moorhen.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Moorhen</h2>
   <div>
     Moorhen
@@ -81,7 +74,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/egyptian_goose.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Egyptian Goose</h2>
   <div>
     Egyptian Goose
@@ -89,7 +82,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/swan.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Swan</h2>
   <div>
     Swan
@@ -97,7 +90,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/cormorant.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Cormorant</h2>
   <div>
     Cormorant
@@ -105,7 +98,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/black_headed_gull.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Black-headed Gull</h2>
   <div>
     Black-headed Gull
@@ -113,7 +106,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/waterbirds/mallard.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Mallard</h2>
   <div>
     Mallard
@@ -121,7 +114,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/grey_wagtail.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Grey Wagtail</h2>
   <div>
     Grey Wagtail
@@ -129,7 +122,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/white_wagtail.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>White Wagtail</h2>
   <div>
     White Wagtail
@@ -137,7 +130,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/king.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Common Kingfisher</h2>
   <div>
     Common Kingfisher
@@ -145,7 +138,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/chaffinch.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Chaffinch</h2>
   <div>
     Chaffinch
@@ -153,7 +146,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/fieldfare.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Fieldfare</h2>
   <div>
     Fieldfare
@@ -161,7 +154,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/songthrush.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Songthrush</h2>
   <div>
     Songthrush
@@ -169,7 +162,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/red_robin.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Red Robin</h2>
   <div>
     Red Robin
@@ -177,7 +170,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/great_spotted_woodpecker.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Great Spotted Woodpecker</h2>
   <div>
     Great Spotted Woodpecker
@@ -185,7 +178,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/blackbird.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Blackbird</h2>
   <div>
     Blackbird
@@ -193,7 +186,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/great_tit.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Great Tit</h2>
   <div>
     Great Tit
@@ -201,7 +194,7 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/greenfinch.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Greenfinch</h2>
   <div>
     Greenfinch
@@ -211,7 +204,7 @@ aside: true
 <!-- TODO: Change Nuthatch picture -->
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/nuthatch.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Nuthatch</h2>
   <div>
     Nuthatch
@@ -219,18 +212,19 @@ aside: true
 </label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/songbirds/barnswallow.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Barn Swallow</h2>
   <div>
-    Barn Swallow
+    Common Buzzard
   </div>
-</label>
 
 <label class="textOverImage" style="background-image:url(/assets/images/birds/hawks/common_buzzard.webp)">
-  <input type="checkbox">
+  <input type="checkbox" />
   <h2>Common Buzzard</h2>
   <div>
     Common Buzzard
   </div>
 </label>
-</div>
+&lt;/div&gt;
+</label></div>
+:ET
