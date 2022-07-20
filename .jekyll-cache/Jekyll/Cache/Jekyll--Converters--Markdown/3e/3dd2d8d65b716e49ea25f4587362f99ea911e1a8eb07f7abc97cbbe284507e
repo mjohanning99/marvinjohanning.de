@@ -1,4 +1,4 @@
-I"-<p>This page contains some information about my hobby of birding / birdwatching. You will find some information about my <a href="/reports/">birding reports</a>, the clubs I participate in, <a href="/birding/birds_photographed/">what birds I have seen</a>, what programs I use and more.</p>
+I"�<p>This page contains some information about my hobby of birding / birdwatching. You will find some information about my <a href="/reports/">birding reports</a>, the clubs I participate in, <a href="/birding/birds_photographed/">what birds I have seen</a>, what programs I use and more.</p>
 
 <h3 id="general-information">General information</h3>
 <p>I mostly go birding in my general area, but I am planning on visiting other locations in order to see birds which do not reside in Bielefeld and the surrounding region. I mostly use my Canon M100 camera with a 55 - 200 mm lens to take and watch the birds, but I am planning on upgrading both my camera and, especially, my lens some time soon. I have also recently begun recording birds’ songs and calls and creating spectrograms thereof.</p>
@@ -23,5 +23,8 @@
 <h4 id="r-statistical-programming-language">R (statistical programming language)</h4>
 <p>Since I always note which birds I saw at what location, I can use this data to create statistics and maps showing where particular species were seen, how many species were seen at a particular location, how many birds where seen at which location during a birding trip and so forth. In order to better visualise this data, I started learning the <a href="https://en.wikipedia.org/wiki/R_(programming_language)">R programming language</a> which, unlike many other (so-called general purose) programming languages, has a particular purpose: statistical computing.</p>
 
-<p>The main advantage of using R over other, more general-purpose programming languages, is the fact that R makes it particularly easy to create visually pleasing statistics and maps.</p>
+<p>The main advantage of using R over other, more general-purpose programming languages, is the fact that R makes it particularly easy to create visually pleasing statistics and maps and I was, therefore, able to create my first maps and graphs after only a couple of hours of playing around with R in RStudio. I have been refining my scripts ever since and have attempted to make them more aesthetically pleasing. If you wish to take a look at them yourself and perhaps use them for your own projects as well, you’re free to check out the <a href="https://github.com/mjohanning99/birding-stats">GitHub repository</a>. Beware, however, that the code is still rather messy.</p>
+
+<h3 id="websites">Websites</h3>
+<p>In addition to programs I use offline on my computer, I also make use of a variety of online tools, especially for entering trip data.</p>
 :ET

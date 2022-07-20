@@ -15,6 +15,8 @@ I mostly go birding in my general area, but I am planning on visiting other loca
 
 I participate mainly in activites of the [North Rhine-Westphalian Ornitholigical Society](http://www.nw-ornithologen.de/index.php) (_Nordrhein-Westfälische Ornithologengesellschaft_) of which I am a member. I have asked to participate in the AG Wasservögel and will take part in the Wasservogelzählung (i. e. in the counting of various water birds once every month — depending on region) starting in 2022. This will entail my walking around specificed bodies of water, counting all the relevant bird species and submitting the data electronically via the ornitho.de system. Please look at the following link if you wish to participate yourself: [Wasservogelzählung](http://www.nw-ornithologen.de/index.php/aktivitaeten/projekte-programme/wvz). A membership is not required, but at least rudimentary knowledge of German and a decent water bird identification ability would most likely be advisable. 
 
+In addition to being a member of the above-mentioned club, I am also a member of the NABU (Naturschutzbund) of the city that I currently reside in, namely Bielefeld. I have yet to take part in any activites of that club, but I am planning on attending a few _Vogelkundliche Spaziergänge_ (ornithological walks) and also the photography meet-up some time soon.
+
 ### Programs I use
 I use a variety of programs and website for identifying birds, writing down and sharing my sightings, editing audio recordings and more. 
 
@@ -27,4 +29,7 @@ Raven Lite is a great program for analysing and improving one's audio recordings
 #### R (statistical programming language)
 Since I always note which birds I saw at what location, I can use this data to create statistics and maps showing where particular species were seen, how many species were seen at a particular location, how many birds where seen at which location during a birding trip and so forth. In order to better visualise this data, I started learning the [R programming language](https://en.wikipedia.org/wiki/R_(programming_language)) which, unlike many other (so-called general purose) programming languages, has a particular purpose: statistical computing.
 
-The main advantage of using R over other, more general-purpose programming languages, is the fact that R makes it particularly easy to create visually pleasing statistics and maps.
+The main advantage of using R over other, more general-purpose programming languages, is the fact that R makes it particularly easy to create visually pleasing statistics and maps and I was, therefore, able to create my first maps and graphs after only a couple of hours of playing around with R in RStudio. I have been refining my scripts ever since and have attempted to make them more aesthetically pleasing. If you wish to take a look at them yourself and perhaps use them for your own projects as well, you're free to check out the [GitHub repository](https://github.com/mjohanning99/birding-stats). Beware, however, that the code is still rather messy. 
+
+### Websites
+In addition to programs I use offline on my computer, I also make use of a variety of online tools, especially for entering trip data. This is also required for a lot of the activites of the club mentioned above. 
